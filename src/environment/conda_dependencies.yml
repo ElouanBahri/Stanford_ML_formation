@@ -1,4 +1,4 @@
-name: explo-ds
+name: Stanford_ML_formation_env
 channels:
   - defaults
   - conda-forge

@@ -1,0 +1,6 @@
+black==23.12.1
+invoke==2.2.0
+pytest==8.2.2
+pylint==3.2.3
+pip==24.2
+pandas==2.2.2
