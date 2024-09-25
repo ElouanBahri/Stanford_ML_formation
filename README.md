@@ -1,4 +1,4 @@
-# ☑ Stage_galileo
+# ☑ Stanford_ML_formation 
 This project uses **Python == 3.11**.
 
 
