@@ -4,7 +4,7 @@ This project uses **Python == 3.11**.
 
 ## 1. Description  
 
-This repo is inspired by the **Machine Learning Specialization** led by **Andrew Ng** through **DeepLearning.AI** on Coursera. The specialization consists of three core courses:  
+This repo is inspired by the **Machine Learning Specialization** led by **Andrew Ng** through **DeepLearning.AI** and **Stanford University** on Coursera. The specialization consists of three core courses:  
 1. **Supervised Machine Learning: Regression and Classification**  
 2. **Advanced Learning Algorithms**  
 3. **Unsupervised Learning, Recommenders, and Reinforcement Learning**  
